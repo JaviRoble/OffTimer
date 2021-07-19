@@ -1,0 +1,12 @@
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\bin\Debug\temporizador_apagado.exe.config
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\bin\Debug\temporizador_apagado.exe
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\bin\Debug\temporizador_apagado.pdb
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\bin\Debug\temporizador_apagado.xml
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.vbprojAssemblyReference.cache
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.frm_off.resources
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.Resources.resources
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.vbproj.GenerateResource.cache
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.vbproj.CoreCompileInputs.cache
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.exe
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.xml
+C:\Develop\VB\temporizador_apagado\temporizador_apagado\obj\Debug\temporizador_apagado.pdb
